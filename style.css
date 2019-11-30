@@ -1,0 +1,18 @@
+
+#words {
+    color: rgba(155, 75, 230, 0.705);
+}
+.hullo {
+    color: rgba(7, 250, 189, 0.781);
+}
+h1 {
+    unicode-bidi: bidi-override; 
+    direction: rtl;
+}
+
+a:hover {
+    color: red;
+}
+h2:hover{
+    background-color: blanchedalmond;
+}
